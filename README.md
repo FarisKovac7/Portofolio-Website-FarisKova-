@@ -1,2 +1,2 @@
-# Portofolio-Website-FarisKova-
+# Portofolio-Website-FarisKovach-
 Online portofolio (demo version)
